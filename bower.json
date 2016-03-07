@@ -1,0 +1,8 @@
+{
+  "name": "escalabilidad-y-buenas-practicas-en-symfony",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~3.2.0",
+    "highlightjs": "~9.0.0"
+  }
+}

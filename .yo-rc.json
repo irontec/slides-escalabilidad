@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Escalabilidad y buenas prácticas en Symfony",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
