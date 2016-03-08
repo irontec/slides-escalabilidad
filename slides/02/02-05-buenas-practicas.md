@@ -1,7 +1,7 @@
 # Bundles
 -------------
 
-Los Bundles está pensados para ser elementos de software reutilizables de forma autónoma, 
+Los Bundles están pensados para ser elementos de software reutilizables de forma autónoma, 
 esto significa que un bundle  tiene que poderse portar a otras aplicaciones Symfony, sin que esto suponga un sacrificio.
 
 * <!-- .element: class="fragment" data-fragment-index="1" --> **Ejemplo:**

@@ -1,7 +1,7 @@
 # Configuraciónes sensibles
 ---------------------------
 
-Symfony tomará todas las variables de entorn que empiecen por `SYMFONY_` y seteará 
+Symfony tomará todas las variables de entorno que empiecen por `SYMFONY_` y seteará 
 sus valores al contenedor de servicios, después de tratar la variable de la siguiente manera:.
 
 * Elimina el prefijo `SYMFONY__`.

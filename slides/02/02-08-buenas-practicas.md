@@ -1,7 +1,7 @@
 # Configuración de infraestructura
 ---------------------------
 
-En el parameters.yml por defecto, encontramos las configuraciones relacionadas con base de datosy el servidor de correo.
+En el `parameters.yml` por defecto, encontramos las configuraciones relacionadas con base de datosy el servidor de correo.
 
     # app/config/parameters.yml
     parameters:
@@ -17,4 +17,4 @@ En el parameters.yml por defecto, encontramos las configuraciones relacionadas c
         mailer_user:       ~
         mailer_password:   ~
 
-* No las definimos en el `config.yml` porque no afectanal comportamiento de la aplicación en si.
+* No las definimos en el `config.yml` porque no afectan al comportamiento de la aplicación en si.
