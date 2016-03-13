@@ -1,4 +1,4 @@
-# Lógica de negocio
+## Lógica de negocio
 -------------------
 
 La lógica de negocio es todo el código que escribes para tu aplicación 

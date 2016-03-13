@@ -1,4 +1,4 @@
-# Estructura de la aplicación
+## Estructura de la aplicación
 -----------------------------
 
 * <!-- .element: class="fragment" data-fragment-index="4" --> **app/Resources/:** almacena todas las plantillas de la aplicación y todos los archivos de traducciones.

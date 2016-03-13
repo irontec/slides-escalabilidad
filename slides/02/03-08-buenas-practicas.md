@@ -1,4 +1,4 @@
-# Controladores: Ideal
+## Controladores: Ideal
 ------------------------
 
 **¿Como deberían ser entonces los controladores en symfony?**

@@ -1,4 +1,4 @@
-# Estructura de la aplicación
+## Estructura de la aplicación
 -------------------------
 
 si abrimos una aplicación Symfony 2 recien instalada, nos encontraremos con la siguiente estructura de archivos.

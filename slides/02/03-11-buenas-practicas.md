@@ -1,4 +1,4 @@
-# Seguridad: Autorización
+## Seguridad: Autorización
 -------------------------
 
 Puedes utilizar la configuración `access_control` en el archivo `security.yml`, la anotación `@Security` o el método `isGranted()` del servicio `security.context`.

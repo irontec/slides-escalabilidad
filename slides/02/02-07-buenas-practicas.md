@@ -1,4 +1,4 @@
-# Configuración
+## Configuración
 -------------
 
 La sección de configuración, abarca diferentes partes, como la Infraestructura, seguridad, entorno...

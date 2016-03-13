@@ -1,4 +1,4 @@
-# Constantes u opciones de configuración
+## Constantes u opciones de configuración
 ---------------------------
 
 Utiliza constantes en vez de parametros de configuración para valores de opciones que a penas vayan 

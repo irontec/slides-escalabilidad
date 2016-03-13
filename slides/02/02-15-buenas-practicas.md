@@ -1,4 +1,4 @@
-# configuración semántica
+## configuración semántica
 ---------------------------
 
 Los bundles de Symfony, tienen dos formas de definir sus parametros de configuración, 

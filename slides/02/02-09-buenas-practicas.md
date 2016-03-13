@@ -1,7 +1,7 @@
-# Configuración de infraestructura
+## Configuración de infraestructura
 ---------------------------
 
-## Parámetros canónicos
+### Parámetros canónicos
 
 Desde la versión 2.3 Symfony incluye un archivo de configuración llamado `parameters.dist.yml`, 
 donde se guardan los parámetros de configuración que necesita la aplicación para que ésta funcione correctamente.

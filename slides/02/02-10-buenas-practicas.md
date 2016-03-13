@@ -1,4 +1,4 @@
-# Configuración de aplicación
+## Configuración de aplicación
 ---------------------------
 
 El archivo `config.yml` almacena los parametros que modifican el comportamiento de la aplicación.

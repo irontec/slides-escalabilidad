@@ -1,4 +1,4 @@
-# Configuración de servicios
+## Configuración de servicios
 -------------------
 
 los servicios serían el ejemplo perfecto de lógica de negocio no directamente relacionada con el framework.

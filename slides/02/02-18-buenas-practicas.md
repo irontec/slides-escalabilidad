@@ -1,4 +1,4 @@
-# Configuraciónes sensibles
+## Configuraciónes sensibles
 ---------------------------
 
 Symfony tomará todas las variables de entorno que empiecen por `SYMFONY_` y seteará 

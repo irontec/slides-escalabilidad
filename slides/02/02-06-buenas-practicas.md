@@ -1,4 +1,4 @@
-# Bundles
+## Bundles
 -------------
 
 Por lo tanto, **¿como debería ser la estructura de nuestra aplicación?**

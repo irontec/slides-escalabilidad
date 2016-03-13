@@ -1,4 +1,4 @@
-# Configuración de aplicación
+## Configuración de aplicación
 ---------------------------
 
 Las opciones definaidas en el `config.yml`, suelen variar según el entorno de ejecución. Symfony nos ofrece distintos archivos:

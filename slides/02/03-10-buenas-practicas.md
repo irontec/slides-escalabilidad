@@ -1,4 +1,4 @@
-# Seguridad: Autenticación y firewalls
+## Seguridad: Autenticación y firewalls
 ----------------------------------
 
 La autenticación se configura en el archivo `security.yml`.

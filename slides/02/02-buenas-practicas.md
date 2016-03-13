@@ -1,4 +1,4 @@
-# Gestión de dependencias
+## Gestión de dependencias
 -------------------------
 
 Tanto para instalar symfony como para instalar cualquier bundle o librería, siempre utilizaremos composer.

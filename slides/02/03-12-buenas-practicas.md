@@ -1,4 +1,4 @@
-# Seguridad: ACL y Voters
+## Seguridad: ACL y Voters
 -------------------------
 
 Otra forma de centralizar la lógica relacionada con la seguridad, son los `Voter`-s y `ACL`-s,

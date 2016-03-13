@@ -1,4 +1,4 @@
-# Configuraciónes sensibles
+## Configuraciónes sensibles
 ---------------------------
 
 Veamos como se haría con un ejemplo:

@@ -1,4 +1,4 @@
-# Buenas Prácticas en Symfony
+## Buenas Prácticas en Symfony
 -----------------------------
 
 Las buenas prácticas en symfony, nos facilitarán concretamente la "Escalabilidad administrativa". 

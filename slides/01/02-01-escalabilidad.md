@@ -1,5 +1,5 @@
-#Escalabilidad: ¿En Symfony?
+## Escalabilidad: Dimensiones
 ---------------------------
 
-El objetivo será lograr una aplicación con una alta tolerancia a fallas, para ello seguiremos al pie de la letra 
-las buenas practicas de symfony y patrones de diseño como el paradigma de inversion de dependencias o el patron repositorio(Ambas compatibles).
+* **Escalabilidad en carga**
+Un sistema distribuido nos hace fácil el ampliar y reducir sus recursos para acomodar (a conveniencia), cargas más pesadas o más ligeras según se requiera.

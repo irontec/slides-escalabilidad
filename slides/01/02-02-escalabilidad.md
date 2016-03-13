@@ -1,8 +1,5 @@
-#Escalabilidad: Terminología
+## Escalabilidad: Dimensiones
 ---------------------------
 
-* <!-- .element: class="fragment" data-fragment-index="1" --> **Tolerancia frente a fallas**
-Se refiere a la capacidad de un sistema de acceder a la información, aun en caso de producirse algún fallo o anomalía a en el sistema.
-
-* <!-- .element: class="fragment" data-fragment-index="2" --> **Paradigma**
-Conjunto de unidades que pueden sustituir a otra en un mismo contexto porque cumplen la misma función
+* **Escalabilidad geográfica**
+Un sistema geográficamente escalable, es aquel que mantiene su utilidad y usabilidad, sin importar que tan lejos estén sus usuarios o recursos.

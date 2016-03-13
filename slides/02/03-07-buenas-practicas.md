@@ -1,4 +1,4 @@
-# Controladores: Plantillas
+## Controladores: Plantillas
 ------------------------
 
 ## **No utilices la anotación @template()**

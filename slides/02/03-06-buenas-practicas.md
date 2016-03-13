@@ -1,4 +1,4 @@
-# Controladores: Routing
+## Controladores: Routing
 ------------------------
 
 En el archivo `routing.yml` define las rutas de nuestra aplicación, para utilizar anotaciones deberíamos añadir algo como esto:

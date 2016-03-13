@@ -1,4 +1,4 @@
-# Estructura de la aplicación
+## Estructura de la aplicación
 -----------------------------
 
 Symfony propone esta jerarquía de archivos y directorios para estructurar tus aplicaciones.

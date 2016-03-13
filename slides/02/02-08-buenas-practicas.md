@@ -1,4 +1,4 @@
-# Configuración de infraestructura
+## Configuración de infraestructura
 ---------------------------
 
 En el `parameters.yml` por defecto, encontramos las configuraciones relacionadas con base de datosy el servidor de correo.

@@ -1,4 +1,4 @@
-# Gestión de dependencias
+## Gestión de dependencias
 -------------------------
 
 Gracias a composer podemos instalar paquetes y mantenerlos en una versión, actualizarlos o eliminarlos con simples comandos de consola.

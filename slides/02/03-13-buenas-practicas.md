@@ -1,4 +1,4 @@
-# Seguridad: @Security()
+## Seguridad: @Security()
 -------------------------
 
 La anotación @Security es la forma más sencilla de controlar el acceso a cada controlador de la aplicación.

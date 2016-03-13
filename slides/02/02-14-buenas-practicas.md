@@ -1,4 +1,4 @@
-# Constantes u opciones de configuración
+## Constantes u opciones de configuración
 ---------------------------
 
 Ejemplos:

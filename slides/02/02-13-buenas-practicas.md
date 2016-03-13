@@ -1,4 +1,4 @@
-# Constantes u opciones de configuración
+## Constantes u opciones de configuración
 ---------------------------
 
 La principal desventaja de definir este tipo de parametros como configuración en vez de como constantes, 

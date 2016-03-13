@@ -1,4 +1,4 @@
-#Paradigma de Inversion de dependencias
+## Principio de Inversión de dependencias
 ---------------------------
 
 Está imágen define perfectamente lo que queremos lograr.

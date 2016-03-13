@@ -1,7 +1,7 @@
-# Problemas que necesitamos solventar
+## Problemas que necesitamos solventar
 ------------------------------
 
-## Duplicidad por reimplementación de obtención de datos
+### Duplicidad por reimplementación de obtención de datos
 
 Otro problema que necesitamos solventar en el patrón repositorio, es como realizar las consultas con ayuda del `Gateway`, 
 cada vez que necesitamos algo de información de nuestra puerta de enlace, tendremos que pensar en:

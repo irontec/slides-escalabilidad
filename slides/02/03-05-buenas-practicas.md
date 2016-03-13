@@ -1,4 +1,4 @@
-# Controladores
+## Controladores
 ---------------
 
 * <!-- .element: class="fragment" data-fragment-index="1" --> Los controladores deben extender la clase `Controller` proporcionada 
