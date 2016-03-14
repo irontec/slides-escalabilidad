@@ -1,4 +1,4 @@
 ## Repository para obtención de datos
 ------------------------------
 
-![Patrón Repositorio](/images/repo-pattern.png)
+![Patrón Repositorio](/educaedu-slides/images/repo-pattern.png)

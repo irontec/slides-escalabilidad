@@ -3,4 +3,4 @@
 
 Analicemos la siguiente imagen.
 
-![Patrón Repositorio](/images/repo-pattern.png)
+![Patrón Repositorio](/educaedu-slides/images/repo-pattern.png)

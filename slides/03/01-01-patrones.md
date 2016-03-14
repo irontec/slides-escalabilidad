@@ -3,4 +3,4 @@
 
 Está imágen define perfectamente lo que queremos lograr.
 
-![DIP](/images/dip.gif)
+![DIP](/educaedu-slides/images/dip.gif)

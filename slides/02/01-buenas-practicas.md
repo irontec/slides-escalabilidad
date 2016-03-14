@@ -1,4 +1,4 @@
 ## Buenas Prácticas en Symfony
 -----------------------------
 
-![Best practices](/images/best-practices.gif)
+![Best practices](/educaedu-slides/images/best-practices.gif)
