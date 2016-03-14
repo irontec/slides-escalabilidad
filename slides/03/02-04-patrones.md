@@ -1,4 +1,4 @@
 ## Patrón de diseño de Factorías
 ------------------------------
 
-![Factoría](/educaedu-slides/images/factory.png)
+![Factoría](/slides-escalabilidad/images/factory.png)

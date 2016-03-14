@@ -1,4 +1,4 @@
 ## Después de todo esto...
 ------------------------------
 
-![Show me the code](/educaedu-slides/images/the-code.jpg)
+![Show me the code](/slides-escalabilidad/images/the-code.jpg)

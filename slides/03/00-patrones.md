@@ -1,4 +1,4 @@
 ## Patrones de diseño
 ---------------------
 
-![Patrones de diseño](/educaedu-slides/images/design-patterns.png)
+![Patrones de diseño](/slides-escalabilidad/images/design-patterns.png)

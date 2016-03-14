@@ -3,4 +3,4 @@
 
 Está imágen define perfectamente lo que queremos lograr.
 
-![DIP](/educaedu-slides/images/dip.gif)
+![DIP](/slides-escalabilidad/images/dip.gif)
